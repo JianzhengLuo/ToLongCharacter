@@ -14,15 +14,5 @@ While sending me your help, do not forget to **SEND THE INFORMATION YOU WOULD LI
 
 ### Contributors
 
-<style>
-    img {
-        border-radius: 50%;
-        width: 45px;
-        height: 45px;
-        position: relative;
-        top: 15px
-    }
-</style>
+[@JianzhengLuo](https://github.com/JianzhengLuo): (No description yet. ) | (No links yet. )
 
-<img src="https://avatars.githubusercontent.com/u/86510320?v=4" alt="J" style=""> [@JianzhengLuo](https://github.com/JianzhengLuo): (No description yet. ) | (No links yet. )
-<br>
