@@ -84,7 +84,7 @@
         fetch("./characters.json").then((response) => {
             return response.json();
         }).then((data) => {
-            var dict = data;
+            dict = data;
             alert(`Loaded dict ${dict.version} . `);
             button.disabled = false;
             button.innerText = "Convert";
