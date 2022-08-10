@@ -28,6 +28,7 @@
 
     <textarea id="converted"></textarea>
 
+    <button onclick="copy()">Copy</button>
 
     <p>(Too lazy to make it prettier. )</p>
 
@@ -54,6 +55,12 @@
                 converted += dict[origin[i]] ? dict[origin[i]] : origin[i];
             }
             document.querySelector("#converted").innerText = converted;
+        }
+
+        function copy() {
+            document.querySelector("#converted").select();
+            document.execCommand("copy");
+            alert("Copied! ");
         }
     </script>
 
