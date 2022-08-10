@@ -36,9 +36,9 @@
         var dict = {};
 
         button.disabled = true;
-        button.innerText = "Disabled. Loading dict for converting. ";
+        button.innerText = "Disabled. Loading dict for converting... ";
 
-        fetch("/characters.json").then((response) => {
+        fetch("./characters.json").then((response) => {
             return response.json();
         }).then((data) => {
             var dict = data;
