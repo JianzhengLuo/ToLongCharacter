@@ -10,7 +10,7 @@ Since there are so much Chinese characters, it's difficult to split them all by 
 
 Folk the project => Change the `characters.json` => Commit the changes => Create a PR => That's all! (Of course waiting for me to review. )
 
-While sending me your help, do not forget to **SEND THE INFORMATION YOU WOULD LIKE TO SHOW** (including head images [1 : 1, 45px or bigger], links to your social media, etc).
+While sending me your help, do not forget to **SEND THE INFORMATION YOU WOULD LIKE TO SHOW** (your name, description, links to your social media, etc).
 
 ### Contributors
 
