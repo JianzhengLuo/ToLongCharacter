@@ -14,5 +14,5 @@ While sending me your help, do not forget to **SEND THE INFORMATION YOU WOULD LI
 
 ### Contributors
 
-[@JianzhengLuo](https://github.com/JianzhengLuo): (No description yet. ) | (No links yet. )
+[@JianzhengLuo](https://github.com/JianzhengLuo): (No description yet. ) | (No links yet. ) [code & dict(1)]
 
